@@ -29,7 +29,7 @@ Soy Sebas, estudiante de ciencia de datos, con interés en desentrañar patrones
 - Procesamiento de lenguaje natural (NLP)
 - Big Data Analytics con Spark
 
-### 📫 Cómo contactarme
+### 📫 
 
 
 ¡Gracias por visitar mi perfil!
