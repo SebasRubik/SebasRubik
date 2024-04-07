@@ -1,4 +1,40 @@
-### Hi there 👋
+# Hola, soy Sebastian Cordoba 👋
+
+## Estudiante de Ciencia de Datos | Explorador de Datos | Aprendiz de Machine Learning
+
+Bienvenido a mi repositorio de GitHub, donde comparto proyectos, experimentos y aprendizajes en mi viaje por el mundo de la ciencia de datos.
+
+### 👨‍💻 Sobre mí
+
+Soy Sebas, estudiante de ciencia de datos, con interés en desentrañar patrones y generar insights a partir de los datos. Estoy en constante aprendizaje, explorando nuevas tecnologías y metodologías que me permitan mejorar mis habilidades en análisis de datos y machine learning.
+
+### 🌟 Mis intereses
+
+- Análisis exploratorio de datos
+- Construcción y evaluación de modelos de machine learning
+- Visualización de datos y creación de dashboards interactivos
+- Aprendizaje automático y sus aplicaciones en el mundo real
+- Desarollo variado
+
+### 🛠 Habilidades en continua formación
+
+- Lenguajes: Python, R, SQL, C++, Java
+- Herramientas: Jupyter Notebooks, Pandas, NumPy, Scikit-Learn, Matplotlib
+- Bases de datos: Oracle
+- Visualización: Power BI
+
+### 📚 Estoy aprendiendo
+
+- Deep learning con TensorFlow
+- Procesamiento de lenguaje natural (NLP)
+- Big Data Analytics con Spark
+
+### 📫 Cómo contactarme
+
+
+¡Gracias por visitar mi perfil!
+
+
 
 <!--
 **SebasRubik/SebasRubik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
