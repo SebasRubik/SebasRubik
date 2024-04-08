@@ -1,6 +1,6 @@
 # Hola, soy Sebastian Cordoba 👋
 
-## Estudiante de Ciencia de Datos | Explorador de Datos | Aprendiz de Machine Learning
+## Estudiante de Ciencia de Datos | Analista de Datos | Aprendiz de Machine Learning | Aprendiz de backend
 
 Bienvenido a mi repositorio de GitHub, donde comparto proyectos, experimentos y aprendizajes en mi viaje por el mundo de la ciencia de datos.
 
@@ -18,7 +18,7 @@ Soy Sebas, estudiante de ciencia de datos, con interés en desentrañar patrones
 
 ### 🛠 Habilidades en continua formación
 
-- Lenguajes: Python, R, SQL, C++, Java
+- Lenguajes: Python, R, SQL, C++, Java, Kotlin
 - Herramientas: Jupyter Notebooks, Pandas, NumPy, Scikit-Learn, Matplotlib
 - Bases de datos: Oracle
 - Visualización: Power BI
