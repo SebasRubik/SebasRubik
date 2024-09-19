@@ -20,7 +20,7 @@ Soy Sebas, estudiante de ciencia de datos, con interés en desentrañar patrones
 
 - Lenguajes: Python, R, SQL, C++, Java, Kotlin
 - Herramientas: Jupyter Notebooks, Pandas, NumPy, Scikit-Learn, Matplotlib
-- Bases de datos: Oracle
+- Manejo de bases de datos: Firebase
 - Visualización: Power BI
 
 ### 📚 Estoy aprendiendo
